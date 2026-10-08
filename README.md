@@ -16,17 +16,32 @@ Hi, I'm Abduli Pütz, a software developer and Information Technology Assistant 
 
 ## Experience
 
-- _still_in_development
+| Role | Organization | Period | Technologies / Focus |
+| :--- | :--- | :--- | :--- |
+| **IT Assistant Student** | Berufskolleg Dieringhausen | 2024 - Present | C#, SQL, Networking, IT Systems |
+| **Independent Developer** | Personal Projects | 2024 - Present | React, Vite, Tailwind CSS, JavaScript, MariaDB, Firebase |
 
 ## Education
 
-- _still_in_development
+| Period | Institution | Education |
+| :--- | :--- | :--- |
+| **2025 – Present** | Berufskolleg Dieringhausen | **Information Technology Assistant (ITA)** |
+| **2025 – Expected** | Berufskolleg Dieringhausen | **Advanced Technical College Entrance Qualification (Fachhochschulreife)** |
+| **2024 – 2025** | Glasfachschule NRW, Rheinbach | International Support Class |
 
 ## Skills
 
-- _still_in_development
+| Area | Tools |
+| :--- | :--- |
+| Languages | C#, JavaScript, TypeScript, SQL |
+| Web | React, Vite, HTML5, CSS3, Tailwind CSS |
+| Backend | Supabase, Firebase, REST APIs |
+| Data | SQL, Oracle SQL, DDL, DML, DQL |
+| Development | Authentication, CRUD, Debugging, UI/UX, Responsive Design |
+| Tools | Git, GitHub, VS Code, Bun, npm |
+| IT & Networking | TCP/IP, Networking, IT Systems, Structured Cabling |
+| Systems | Windows, Linux |
 
 ## Contact
 
-- _still_in_development
-
+[abdulipuetz](https://abduliputz.pages.dev) · [GitHub](https://github.com/abduli-mp)
