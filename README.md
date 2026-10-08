@@ -10,10 +10,9 @@ Hi, I'm Abduli Pütz, a software developer and Information Technology Assistant 
 
 ## Projects
 
-| Projects   | About it   | stach
-| :------------ | :------------ |
-| [Project CONEX](http://github.com/abduli-mp/conex "Project CONEX") | A client-to-technician support platform for reporting, tracking, scheduling, and resolving technical issues.  | React Vite + Tailwind + supabase (SQL)
-
+| Project | About | Stack |
+| :--- | :--- | :--- |
+| [CONEX](https://github.com/abduli-mp/conex) | A client-to-technician support platform for reporting, tracking, scheduling, and resolving technical issues. | React · Vite · Tailwind CSS · Supabase |
 
 ## Experience
 
