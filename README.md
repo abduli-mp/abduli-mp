@@ -1,7 +1,7 @@
 
 ![Logo](abduliputz_banner_github.png)
 
-<u>[abduliputz.dev](https://abdulipuetz.pages.dev/)</u>
+<u>[abduliputz.dev](https://abduliputz.pages.dev/)</u>
 
 
 ## About
@@ -44,4 +44,4 @@ Hi, I'm Abduli Pütz, a software developer and Information Technology Assistant 
 
 ## Contact
 
-[abdulipuetz](https://abduliputz.pages.dev) · [GitHub](https://github.com/abduli-mp)
+[abduliputz](https://abduliputz.pages.dev) · [GitHub](https://github.com/abduli-mp)
